@@ -30,3 +30,4 @@ D:\Stuff\Projects\Cloud\ContosoPizza\obj\Debug\net8.0\refint\ContosoPizza.dll
 D:\Stuff\Projects\Cloud\ContosoPizza\obj\Debug\net8.0\ContosoPizza.pdb
 D:\Stuff\Projects\Cloud\ContosoPizza\obj\Debug\net8.0\ContosoPizza.genruntimeconfig.cache
 D:\Stuff\Projects\Cloud\ContosoPizza\obj\Debug\net8.0\ref\ContosoPizza.dll
+D:\Stuff\Projects\Cloud\ContosoPizza\obj\Debug\net8.0\ContosoPizza.sourcelink.json
